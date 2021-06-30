@@ -29,3 +29,6 @@ Flask API for characters management
 | /characters                            | POST, GET   | - GET - fetches all characters </br> - POST - adds character to database         |
 | /characters/\<userId\>                 | GET         | Fetches all characters which belong to user                                      |
 | /characters/\<userId\>/\<characterId\> | GET, DELETE | - GET - fetches specified character </br> - DELETE - removes specified character |
+
+## Database Schema
+DDL script is located in `database/create.sql`
