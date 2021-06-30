@@ -1,0 +1,8 @@
+{
+    "DATABASE": "./database.sqlite",
+    "DEGUG": true,
+    "SECRET": "u498M6K54L1u21mzBuFilxA6",
+    "JWT_ACCESS_TOKEN_EXPIRES": 3600,
+    "JWT_SECRET_KEY": "7TIt8QOmo4hIzOgNSl88lA1Q",
+    "FLASK_ENV": "developement"
+}
